@@ -1,0 +1,2 @@
+# DiceGame
+Intro JavaScript project
